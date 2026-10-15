@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="#live-demo">Live demo</a> ·
+  <a href="#live-demo">content://com.google.android.apps.nbu.files.provider/2/1000597254</a> ·
   <a href="#overview">Overview</a> ·
   <a href="#results">Results</a> ·
   <a href="#dataset">Dataset</a> ·

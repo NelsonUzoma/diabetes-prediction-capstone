@@ -30,13 +30,12 @@
   <a href="#limitations">Limitations</a> ·
   <a href="#deployment">Deployment</a> ·
   <a href="#run-it-yourself">Run it yourself</a> ·
-  <a href="#team">Team</a>
 </p>
 
 ---
 
 ## Live demo
-# copy and paste into your browser:
+copy and paste into your browser:
 content://com.google.android.apps.nbu.files.provider/2/1000597254
 
 Enter 21 health survey answers and the final Random Forest returns a score, the answers that moved it, and how people with similar scores actually turned out in the held-out test data. The page also has a "How it was built" section with the model comparison and limitations. It runs entirely in the browser, so nothing you type is sent anywhere.

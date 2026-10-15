@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
- <a href="#live-demo"_(content://com.google.android.apps.nbu.files.provider/2/1000597254)_
+  <a href="#live-demo">live-demo</a> .
   <a href="#overview">Overview</a> ·
   <a href="#results">Results</a> ·
   <a href="#dataset">Dataset</a> ·
@@ -37,7 +37,7 @@
 
 ## Live demo
 
-**[Open the Diabetes Risk Predictor](https://claude.ai/artifact/7Vk3o53BB6ym6pUN7T6HB8)**
+**[Open the Diabetes Risk Predictor](content://com.google.android.apps.nbu.files.provider/2/1000597254)**
 
 Enter 21 health survey answers and the final Random Forest returns a score, the answers that moved it, and how people with similar scores actually turned out in the held-out test data. The page also has a "How it was built" section with the model comparison and limitations. It runs entirely in the browser, so nothing you type is sent anywhere.
 

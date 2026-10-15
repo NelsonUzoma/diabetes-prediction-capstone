@@ -36,8 +36,8 @@
 ---
 
 ## Live demo
-
-#Open the Diabetes Risk Predictor: <content://com.google.android.apps.nbu.files.provider/2/1000597254>
+# copy and paste into your browser:
+content://com.google.android.apps.nbu.files.provider/2/1000597254
 
 Enter 21 health survey answers and the final Random Forest returns a score, the answers that moved it, and how people with similar scores actually turned out in the held-out test data. The page also has a "How it was built" section with the model comparison and limitations. It runs entirely in the browser, so nothing you type is sent anywhere.
 
@@ -212,16 +212,6 @@ YOUR-REPO/
 └── LICENSE
 ```
 
-## Team
-
-Built by [Team name] for [Course name], [University or program], [Month Year].
-
-| Name | Role | GitHub |
-|---|---|---|
-| Nelson| Leader | [@NelsonUzoma](https://github.com/NelsonUzoma) |
-| Tim | [Add role] | [@username](https://github.com/username) |
-| [Teammate name] | [Add role] | [@username](https://github.com/username) |
-| [Teammate name] | [Add role] | [@username](https://github.com/username) |
 
 ## Acknowledgments
 
